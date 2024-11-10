@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @g30dude
+- I am a self taught cybersecurity analyst
 - 👀 I’m interested in Blue Teaming and Red Teaming
 <!---
 g30dude/g30dude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
